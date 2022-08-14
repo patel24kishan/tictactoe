@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/HomePage.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Player Vs Comp-beta.unity
+  isLoaded: 1
+  isActive: 0
